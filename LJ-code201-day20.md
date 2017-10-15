@@ -1,0 +1,3 @@
+Dear learning journal... Learnal...
+===================================
+Today i learned that i still have crippling social anxiety. Go me!
