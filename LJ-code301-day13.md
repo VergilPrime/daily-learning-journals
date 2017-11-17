@@ -1,0 +1,3 @@
+### Problems
+
+This week long project with Frank and Phelan got off to a bad start. I began by reconstructing the todo demo app that Allie made, just to try and map out how the project is structured and how each function relates to another. Unfortunately we weren't particularly clear about the instructions for this lab, and rather than refactor the code I had worked out, Phelan elected to have us start over from square one and work out the project line by line. We started a bit behind but this gap widened as peices were missing from the instructions that were vital to making a finished product.
